@@ -1,0 +1,10 @@
+.idea/
+DeleteIncorrectDatedPCHR.zip
+DeleteIncorrectDatedPCHR/
+TIGODelecteFutureLogs/
+__pycache__/
+build/
+*.log
+dist/
+tigo_delete_future_logs.spec
+
